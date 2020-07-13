@@ -146,9 +146,8 @@ button:hover{
     font-weight: 500;
 }
 
-.footer{
-	padding-top: 3%;
-	font-size: 15px;
+footer{
+	font-size: 18px;
 	text-align: center;
 }
 
